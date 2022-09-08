@@ -1,11 +1,5 @@
 # Sr. Full-Stack JavaScript Engineer ![](https://img.shields.io/badge/rating-4.6/5-green?style=for-the-badge) ![](https://img.shields.io/badge/profile_viewed-1.2k-green?style=for-the-badge)
 
-<div>
-<img src="https://simpleicons.org/icons/vuedotjs.svg" width="100"/>
-<img src="https://simpleicons.org/icons/nodedotjs.svg" width="100"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" width="100"/>
-</div>
-
 ## JavaScript Ninja
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" />
@@ -19,8 +13,8 @@ Over 8 years of experience in web development
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Vue-green" />
-<img src="https://img.shields.io/badge/React-blue" />
+<img src="https://img.shields.io/badge/React-green" />
+<img src="https://img.shields.io/badge/Vue-blue" />
 </div>
 
 <div>
