@@ -13,7 +13,8 @@ Over 8 years of experience in web development
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/React-green" />
+<img src="https://img.shields.io/badge/Angular-grean" />
+<img src="https://img.shields.io/badge/React-blue" />
 <img src="https://img.shields.io/badge/Vue-blue" />
 </div>
 
@@ -51,7 +52,9 @@ Over 8 years of experience in web development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/angularjs-original.svg" width="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="50"/>
